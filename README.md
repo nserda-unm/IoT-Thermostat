@@ -1,1 +1,1 @@
-# IoT_Thermostat
+# IoT-Thermostat
